@@ -1,4 +1,14 @@
-# mp3 player
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<div align="center">
+  <img alt="Image" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; display: block; margin: 0 auto;" src="foto.jpg">
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider" />
+</p>
+
+<br>
 
 ## 📞 Contact Developer
 
